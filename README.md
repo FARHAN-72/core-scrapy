@@ -1,4 +1,6 @@
-﻿## Python网络爬虫Scrapy框架研究
+﻿
+ ## AMAZING PYTHON SCRAPY PROJECT
+ ## Python网络爬虫Scrapy框架研究
 
 ### Scrapy1.0教程
 
